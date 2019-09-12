@@ -1,6 +1,6 @@
 # Join Storybox
 
-This is a simple exercise to streamline the hiring process. We would love people with prior
+This is a simple exercise to help the hiring process. We would love people with prior
 experience with Git.
 
 You can be descriptive as much as you want. Committing individual steps will earn you extra points.
