@@ -1,3 +1,5 @@
+# DEPRECATED
+[Current Repository](https://github.com/teamyellowfish/join-us)
 # Join Storybox
 
 This is a simple exercise to help the hiring process. We would love people with prior
